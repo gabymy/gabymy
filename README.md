@@ -5,6 +5,7 @@ Me gustaría compartir con ustedes mi experiencia y habilidades en el desarrollo
 Como programador Python, he trabajado en proyectos que incluyen desde aplicaciones pequeñas hasta grandes sistemas de gestión de datos. He utilizado diversas bibliotecas y frameworks como Django y Flask para crear aplicaciones web robustas y escalables.
 
 En lo que se refiere a Frontend, he tenido la oportunidad de trabajar con HTML, CSS y JavaScript para crear interfaces atractivas y fáciles de usar para los usuarios. Además, he utilizado Angular para desarrollar aplicaciones web interactivas y modernas.
+Tambien me gusta usar CSS para realizar arte, diseños y dibujos sin utilizacion de imagenes.
 
 En mi perfil pueden encontrar algunos de mis proyectos que incluyen aplicaciones de seguimiento de tareas, sistemas de gestión de inventario y plataformas de comercio electrónico.
 
